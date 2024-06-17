@@ -29,8 +29,7 @@ Fighter Fundamentals (IFF)"](https://static.e-publishing.af.mil/production/1/aet
 
   This is an example of a footnote2[^note2].
 
-![alt text](images/BFM/zesz.svg)
-
+![alt text](images/AON_AOT.svg)
 
 1. [ ] empty
 1.  [x] with x
